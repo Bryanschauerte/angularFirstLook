@@ -1,6 +1,6 @@
 import { ProgressUpPage } from './app.po';
 
-describe('progress-up App', function() {
+describe('angular-first-look App', function() {
   let page: ProgressUpPage;
 
   beforeEach(() => {
